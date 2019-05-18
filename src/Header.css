@@ -1,0 +1,20 @@
+header{
+    height: 3.12rem;
+    border: 1px solid #333333;
+    margin-bottom: 0.65rem;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.titulo{
+    font-size: 1.6rem;
+    padding: 0.65rem;
+    color: #fff;
+}
+
+.botonReset{
+    position: absolute;
+    left: 0.7rem;
+    top: 3.62rem;
+}
